@@ -8,10 +8,8 @@ In this project, we will explore the wonderful world of recipes and create a col
 
 ## Features
 
-- **Recipe Categories**: Browse through a wide range of recipe categories, including Italian, Mexican, Asian, and more! 🌮🍝🍣
-- **Step-by-Step Instructions**: Each recipe comes with detailed instructions, making it easy for even the most novice chefs to follow along. 📝👩‍🍳
+- **Recipe Description**: Each recipe comes with a recipe description, to let you know how easy it is to cook and how delicious it will taste! 📝👩‍🍳
 - **Ingredient List**: Never forget an ingredient again! Each recipe includes a handy ingredient list, ensuring you have everything you need before you start cooking. 🛒🥕
-- **User Favorites**: Save your favorite recipes for quick access later. Never lose track of that delicious dish you loved! ❤️📌
 
 ## Installation
 
